@@ -18,3 +18,5 @@ Fine-tune the model with optimal parameters.
 Evaluate & Interpret:
 Assess model performance using Root Mean Squared Error (RMSE).
 Examine coefficients to identify features with the most significant positive or negative impact on price.
+
+Feel free to fork this repository, make improvements, and submit pull requests.
